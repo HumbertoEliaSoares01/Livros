@@ -1,5 +1,6 @@
 :root{
-    --corDoSite: #CB8C6B;
+    --cor-01: #CB8C6B;
+    --cor-02: #EFD29D;
 }
 #titulo{
     color: #fff;
@@ -11,7 +12,7 @@
 img{
     width: 200px;
     padding: 20px;
-    border: 1px solid var(--corDoSite);
+    border: 1px solid var(--cor-01);
 }
 img:hover{
     transform: scale(1.5);
@@ -25,13 +26,14 @@ div{
 }
 body{
     text-align: center;
-    background-color:var(--corDoSite);
+    background-image: linear-gradient(to bottom , var(--cor-02), var(--cor-01));
+    /* background-color:var(--cor-01); */
     font-size: 1.2em;
-    color: var(--corDoSite);
+    color: var(--cor-01);
 }
 li{
     position: relative;
-    border: 1px solid  var(--corDoSite);
+    border: 1px solid  var(--cor-01);
     border-radius: 10px;
     padding: 10px;
     margin: 20px;
@@ -46,7 +48,7 @@ a{
 hr{
     width: 600px;
     border-width: 1px;
-    border-color: var(--corDoSite);
+    border-color: var(--cor-01);
     margin: 20px auto;
 }
 audio{
@@ -77,7 +79,7 @@ body header>h1{
     text-shadow: 0px 0px 50px #fff;
 }
 li header>h1{
-    color: var(--corDoSite);
+    color: var(--cor-01);
     font-size: 3.5em;
 }
 #audioUmSenhor{
