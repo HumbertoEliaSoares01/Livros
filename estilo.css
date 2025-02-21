@@ -1,13 +1,17 @@
 :root{
+    --cor-00: #5f2d12;
     --cor-01: #CB8C6B;
     --cor-02: #EFD29D;
+    --cor-03: #FAEFB3;
 }
 #titulo{
     color: #fff;
     text-decoration: none;
 }
-#titulo:hover{    text-decoration: underline;
-    text-shadow: 0px 0px 50px #fff;
+#titulo:hover{    
+    /* text-decoration: underline; */
+    text-shadow: 0px 0px 50px var(--cor-00);
+    color: var(--cor-03);
 }
 img{
     width: 200px;
