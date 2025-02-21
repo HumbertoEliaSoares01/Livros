@@ -1,0 +1,88 @@
+:root{
+    --cor-01: #CB8C6B;
+    --cor-02: #EFD29D;
+}
+#titulo{
+    color: #fff;
+    text-decoration: none;
+}
+#titulo:hover{    text-decoration: underline;
+    text-shadow: 0px 0px 50px #fff;
+}
+img{
+    width: 200px;
+    padding: 20px;
+    border: 1px solid var(--cor-01);
+}
+img:hover{
+    transform: scale(1.5);
+    transition: 1s;
+    opacity: 0.5;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to bottom , var(--cor-02), var(--cor-01));
+    /* background-color:var(--cor-01); */
+    font-size: 1.2em;
+    color: var(--cor-01);
+}
+li{
+    position: relative;
+    border: 1px solid  var(--cor-01);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 50px #fff;
+}
+h1{font-size: 2.5em;}
+a{
+    font-size: 1.2em;
+    padding: 2px;
+}
+hr{
+    width: 600px;
+    border-width: 1px;
+    border-color: var(--cor-01);
+    margin: 20px auto;
+}
+audio{
+    padding: 10px;
+    margin: 10px;
+    width: 180px;
+    position: absolute;
+    top: 380px;
+    left: 20px;
+    opacity: 0.5;
+}
+li header{
+    position: relative;
+}
+.fotoPerfil{
+    position: absolute;
+    left: -15px;
+    top: -20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+}
+body header>h1{
+    color: #fff;
+    font-size: 5em;
+    margin: 0px;
+    text-shadow: 0px 0px 50px #fff;
+}
+li header>h1{
+    color: var(--cor-01);
+    font-size: 3.5em;
+}
+#audioUmSenhor{
+    left: 268px;
+    top: 378px;
+}
