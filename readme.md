@@ -3,9 +3,11 @@
 * ## [Viagem a Ixtlan](Carlos%20Castaneda/Carlos%20Castaneda%20-%20Viagem%20a%20Ixtlan.pdf)
 * ## [O Poder do Silêncio](Carlos%20Castaneda/Carlos_Castaneda_O_Poder_do_Silencio.pdf)
 * ## [O Presente da Águia](Carlos%20Castaneda/O%20Presente%20da%20aguia%20-%20Carlos%20Castaneda.pdf)
+* ## [Uma Estranha Realidade](Carlos%20Castaneda/excerto-carlos_castaneda_uma_estranha_realidade-br.pdf)
 # Fritjov Capra
 * ## [O Ponto de Mutação](Fritjof%20Capra/O%20Ponto%20de%20Mutacao%20-%20Fritjof%20Capra.pdf)
 * ## [As Conexões Ocultas](Fritjof%20Capra/31.-Conexoes-Ocultas-Fritjof-Capra.pdf)
+* ## [O Tao da Física](Fritjof%20Capra/o-tao-da-fisica-fritjof-capra.pdf)
 # Gabriel Garcia Marquez
 * ## [A Incrivel e Triste Historia da Candida Eréndira e Sua Avó Desalmada](Gabriel%20Garcia%20Marquez/A%20Incrivel%20e%20Triste%20Historia%20da%20Candida%20Er%20-%20Gabriel%20Garcia%20Marquez.pdf)
 * ## [Um Senhor Muito Velho Com Umas Asas Muito Grandes](Gabriel%20Garcia%20Marquez/Um%20senhor%20muito%20velho%20com%20umas%20asas%20muito%20grandes.pdf) 
