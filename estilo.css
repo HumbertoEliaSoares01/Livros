@@ -63,6 +63,9 @@ audio{
     left: 20px;
     opacity: 0.5;
 }
+iframe{
+    padding: 5%;
+}
 li header{
     position: relative;
 }
